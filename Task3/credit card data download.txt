@@ -1,0 +1,3 @@
+Download the csv file form kagale which contains the data of credit card real and fraud from below link
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
